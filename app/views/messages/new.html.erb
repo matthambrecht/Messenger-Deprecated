@@ -10,6 +10,10 @@
     <%= form_for(@message) do |f| %>
   <div class="field">
     <%= f.label :message %><br>
+    <h4>Title</h4>
+    <%= f.text_area :title %>
+    <br>
+    <h4>Content</h4>
     <%= f.text_area :content %>
   </div>
   <div class="actions">
