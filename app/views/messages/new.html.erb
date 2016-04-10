@@ -1,0 +1,21 @@
+<center><div class="header">
+  <div class="container">
+    <img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/08/11880349_10156070655115195_2632440883343701932_n.jpg">
+  </div>
+</div>
+
+<div class="create">
+  <div class="container">
+
+    <%= form_for(@message) do |f| %>
+  <div class="field">
+    <%= f.label :message %><br>
+    <%= f.text_area :content %>
+  </div>
+  <div class="actions">
+    <%= f.submit "Create" %>
+  </div>
+<% end %>
+
+  </div>
+</div></center>

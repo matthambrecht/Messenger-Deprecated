@@ -1,0 +1,23 @@
+<center><div  id="top" class="header">
+  <div class="container">
+    <img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/08/11880349_10156070655115195_2632440883343701932_n.jpg">
+  </div>
+</div>
+<div class="messages">
+  <div class="container">
+  <div style="width: 100%;">
+    <center>
+    <center style="margin-bottom: 5px;text-align: center;"><%= link_to ' Go to Bottom ', "#bottom" %></center>
+    <center style="margin-bottom: 15px;text-align: center;"><%= link_to 'Send Message', "messages/new" %></center>
+  </center>
+  </div>
+    <% @messages.each do |message| %>
+<div class="message">
+  <p class="content"><%= message.content %></p>
+  <p class="time"><%= message.created_at %></p>
+</div>
+    <% end %>
+    <center style="margin-bottom: 5px;text-align: center;"><%= link_to ' Go to Top ', "#top" %></center>
+    <center id="bottom" style="margin-top: 5px;text-align: center;"><%= link_to 'Send Message', "messages/new" %></center>
+  </div>
+</div></center>
