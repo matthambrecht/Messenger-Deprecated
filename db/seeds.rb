@@ -6,4 +6,4 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-m1 = Message.create(content: "Welcome to the Eclipse Messenger!")
+m1 = Message.create(title: "Weclome Message", content: "Welcome to the Eclipse Messenger!")
