@@ -47,6 +47,18 @@ body {
 .messages, .create {
   margin: 40px 0;
 }
+a, .create .actions input {
+  background-color: #1abc9c;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  margin-top: 10px;
+  padding: 12px 24px;
+  transition: background-color 0.5s;
+  text-decoration: none;
+  display: inline-block;
+}
 
 .messages a,
 .create .actions input {
@@ -62,9 +74,15 @@ body {
   display: inline-block;
 }
 
+.title {
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .message {
   background-color: #fff;
-  font-weight: bold;
   padding: 16px;
   margin-bottom: 10px;
 }
@@ -92,6 +110,16 @@ button:hover {
 }
 
 form label {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 20px;
+  text-align: center;
   display: block;
   width: 100%;
 }
