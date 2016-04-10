@@ -59,5 +59,4 @@ Rails.application.routes.draw do
   get '/messages/new' => 'messages#new'
   get '/messages/new' => 'messages#create'
   post 'messages' => 'messages#create'
-
 end
