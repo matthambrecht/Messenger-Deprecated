@@ -1,5 +1,5 @@
 # Messenger
-A simple messaging webpage in rails.
+A simple anonymous messaging webpage in rails.
 ### How to use
 1. Install rails and ruby.
 2. Go to the project's root directory in your command prompt.
