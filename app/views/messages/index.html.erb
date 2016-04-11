@@ -15,7 +15,8 @@
 <div class="message">
   <h5 class="title"><%= message.title %></h5>
   <p class="content"><%= message.content %></p>
-  <p class="time"><%= message.created_at %></p>
+  <p class="time">Created at: <%= message.created_at %></p>
+  <p class="updated">Updated at: <%= message.updated_at %></p>
 </div>
     <% end %>
     <center style="margin-bottom: 5px;text-align: center;"><%= link_to ' Go to Top ', "#top" %></center>
