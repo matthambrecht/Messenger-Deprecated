@@ -59,4 +59,9 @@ Rails.application.routes.draw do
   get '/messages/new' => 'messages#new'
   get '/messages/new' => 'messages#create'
   post 'messages' => 'messages#create'
+	get 'signup'  => 'users#new'
+	resources :users
+  get '/login' => 'sessions#new'
+  post 'login' => 'sessions#create'
+	delete 'logout' => 'sessions#destroy'
 end
