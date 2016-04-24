@@ -7,6 +7,4 @@ env:
   - DB=mysql
   - DB=sqlite
 rvm:
-  - 2.2.1
-  - 2.1.5
-  - 2.0.0
+  - 4.2.5
