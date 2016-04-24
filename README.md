@@ -1,4 +1,6 @@
 # Messenger
+
+[![Join the chat at https://gitter.im/0-Eclipse-0/Messenger](https://badges.gitter.im/0-Eclipse-0/Messenger.svg)](https://gitter.im/0-Eclipse-0/Messenger?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A simple anonymous messaging webpage in rails.
 
 ### How to use
