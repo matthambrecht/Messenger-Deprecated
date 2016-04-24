@@ -20,4 +20,6 @@ A simple anonymous messaging webpage in rails.
 [![Gitter](https://badges.gitter.im/0-Eclipse-0/Messenger.svg)](https://gitter.im/0-Eclipse-0/Messenger?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Stories in Ready](https://badge.waffle.io/0-Eclipse-0/Messenger.png?label=ready&title=Ready)](https://waffle.io/0-Eclipse-0/Messenger)
 [![Codeship](https://codeship.com/projects/c3c52960-ec9b-0133-6d00-56fc93ede3cf/status?branch=master)](https://codeship.com/projects/148265/status?branch=master)
+[![wercker status](https://app.wercker.com/status/75529ee7d55b706c388e7a66bf751d7e/s "wercker status")](https://app.wercker.com/project/bykey/75529ee7d55b706c388e7a66bf751d7e)
+[![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
 [![wercker status](https://app.wercker.com/status/75529ee7d55b706c388e7a66bf751d7e/m "wercker status")](https://app.wercker.com/project/bykey/75529ee7d55b706c388e7a66bf751d7e)
