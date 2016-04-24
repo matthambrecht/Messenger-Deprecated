@@ -12,5 +12,6 @@ A simple anonymous messaging webpage in rails.
 1. Delete 'development.sqlite3' and type 'rake db:reset' in the command prompt whilst in the root directory.
 2. Reset Chat Button (Soon to come)
 
-### Tests
+### Buttons
 [![Travis Build](https://travis-ci.org/ImagicalMine/ImagicalMine.svg)](https://travis-ci.org/0-Eclipse-0/Messenger)
+[![Gitter](https://badges.gitter.im/0-Eclipse-0/Messenger.svg)](https://gitter.im/0-Eclipse-0/Messenger?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
