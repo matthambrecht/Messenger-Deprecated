@@ -11,7 +11,10 @@
 - [ ] Add ability to create new chats
 - [ ] Customize Signup and Login pages
 - [x] Add time stamps and updated message stamps
+- [ ] Add message signatures
 - [ ] Add admin panel (after roles)
 - [ ] Add moderator panel (after roles)
 - [ ] Add language support
+- [ ] Make users list
+- [ ] Encrypted passwords
 - [ ] Add more TODO features
