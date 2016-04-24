@@ -3,8 +3,6 @@ before_script: rake doc:app
 script: bundle exec rspec spec
 sudo: false
 env:
-  - DB=postgres
-  - DB=mysql
   - DB=sqlite
 rvm:
   - 4.2.5
