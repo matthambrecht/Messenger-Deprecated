@@ -13,4 +13,4 @@ A simple anonymous messaging webpage in rails.
 2. Reset Chat Button (Soon to come)
 
 ### Tests
-https://travis-ci.org/0-Eclipse-0/Messenger.svg?branch=master
+[![Travis Build](https://travis-ci.org/0-Eclipse-0/Messenger.svg)](https://travis-ci.org/0-Eclipse-0/Messenger)
