@@ -11,3 +11,6 @@ A simple anonymous messaging webpage in rails.
 ### Reset Chat
 1. Delete 'development.sqlite3' and type 'rake db:reset' in the command prompt whilst in the root directory.
 2. Reset Chat Button (Soon to come)
+
+### Tests
+https://travis-ci.org/0-Eclipse-0/Messenger.svg?branch=master
