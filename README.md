@@ -15,7 +15,7 @@ A simple anonymous messaging webpage in rails.
 ### Commit Graph
 [![Throughput Graph](https://graphs.waffle.io/0-Eclipse-0/Messenger/throughput.svg)](https://waffle.io/0-Eclipse-0/Messenger/metrics/throughput)
 
-### Buttons
+### Badges
 [![Travis Build](https://travis-ci.org/ImagicalMine/ImagicalMine.svg)](https://travis-ci.org/0-Eclipse-0/Messenger)
 [![Gitter](https://badges.gitter.im/0-Eclipse-0/Messenger.svg)](https://gitter.im/0-Eclipse-0/Messenger?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Stories in Ready](https://badge.waffle.io/0-Eclipse-0/Messenger.png?label=ready&title=Ready)](https://waffle.io/0-Eclipse-0/Messenger)
