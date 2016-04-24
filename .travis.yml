@@ -1,5 +1,5 @@
 language: ruby
-before_script: bundle exec rake messenger:messenger --trace
+before_script: rake doc:app
 script: bundle exec rspec spec
 sudo: false
 env:
