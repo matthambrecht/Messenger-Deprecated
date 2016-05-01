@@ -17,4 +17,5 @@
 - [ ] Add language support
 - [ ] Make users list
 - [ ] Encrypted passwords
+- [ ] Add custom fonts
 - [ ] Add more TODO features
