@@ -1,6 +1,9 @@
 # Messenger
 A simple anonymous messaging system in rails.
 
+### Information
+
+
 
 ### How to use
 1. Install rails and ruby.
