@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/0-Eclipse-0/Messenger.png?label=ready&title=Ready)](https://waffle.io/0-Eclipse-0/Messenger)
 # Messenger
 A simple anonymous messaging system in rails.
 
